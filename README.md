@@ -126,7 +126,7 @@ NOTE: avoid using sunglasses.
 *	https://visualstudio.microsoft.com/
 *	https://developer.mozilla.org/en-US/docs/Web/HTML
 *	https://devdocs.io/javascript/\
-
+*	https://justadudewhohacks.github.io/face-api.js/docs/index.html
 ## Contact
 
 *	DIVYA SRI G - Register Number: 211418104056
