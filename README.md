@@ -30,11 +30,11 @@ JavaScript is used by programmers across the world to create dynamic and interac
 
 
 ### Installation
-Step 1 :
+#### Step 1 :
 
 •	Download VS code from here Link.( https://code.visualstudio.com/download)
 
-Step 2 :
+#### Step 2 :
 
 •	Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute
 
@@ -49,15 +49,15 @@ Step 2 :
 Launch a local development server with live reload feature for static & dynamic pages.
 Start/Stop Server
 
-1.Open a project and click to Go Live from the status bar to turn the server on/off.
+1. Open a project and click to Go Live from the status bar to turn the server on/off.
 
-2.Right click on a HTML file from Explorer Window and click on Open with Live Server.
+2. Right click on a HTML file from Explorer Window and click on Open with Live Server.
 
-3.Open a HTML file and right-click on the editor and click on Open with Live Server.
+3. Open a HTML file and right-click on the editor and click on Open with Live Server.
 
-4.Hit (alt+L, alt+O) to Open the Server and (alt+L, alt+C) to Stop the server (You can change the shortcut form keybinding). [On MAC, cmd+L, cmd+O and cmd+L, cmd+C]
+4. Hit (alt+L, alt+O) to Open the Server and (alt+L, alt+C) to Stop the server (You can change the shortcut form keybinding). [On MAC, cmd+L, cmd+O and cmd+L, cmd+C]
 
-5.Open the Command Pallete by pressing F1 or ctrl+shift+P and type Live Server: Open With Live Server to start a server or type Live Server: Stop Live Server to stop a server.
+5. Open the Command Pallete by pressing F1 or ctrl+shift+P and type Live Server: Open With Live Server to start a server or type Live Server: Stop Live Server to stop a server.
 
 ### Deployment
 
@@ -71,19 +71,19 @@ Click the start button to start the webcam
 ## MODELS:
 
 ### Face detection:
-get the boundaries of one or multiple faces. This is useful for determining where and how big the faces are in a picture.
+To get the boundaries of one or multiple faces. This is useful for determining where and how big the faces are in a picture.
 
 ### Face landmark detection:
-get the position and shape of the eyebrows, eyes, nose, mouth and lips, and chin. This can be used to determine facing direction or to project graphics on specific regions, like a moustache between the nose and lips.
+To get the position and shape of the eyebrows, eyes, nose, mouth and lips, and chin. This can be used to determine facing direction or to project graphics on specific regions, like a moustache between the nose and lips.
 
 ### Face recognition: 
-determine who’s in the picture.
+To determine who’s in the picture.
 
 ### Face expression detection: 
-get the expression from a face. Note that the mileage may vary for different cultures.
+To get the expression from a face. Note that the mileage may vary for different cultures.
 
 ### Age and gender detection:
-get the age and gender from a face. Note that for “gender” classification, it classifies a face as feminine or masculine, which doesn’t necessarily reveal their gender.
+To get the age and gender from a face. Note that for “gender” classification, it classifies a face as feminine or masculine, which doesn’t necessarily reveal their gender.
 
 # End to end tests breakdown
 
